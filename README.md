@@ -1,2 +1,2 @@
 # simple-procedure
-How to make a bed
+This Section provides a simple procedure to assemble a bed 
